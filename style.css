@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+#heading1{
+    text-align:center;
+    width:100%;
+    margin-top:0px;
+    font-size:larger;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+#heading2{
+    font-size:smaller;
+    color:black;
+}
+
+.div_footer{
+    background-color:darkgray;
+    position:fixed;
+    bottom:0;
+color:black;
+width:100%;
+text-align:center;
+line-height:3;
+
+}
